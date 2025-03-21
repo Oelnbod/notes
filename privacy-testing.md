@@ -6,4 +6,4 @@
 - emulation of grapheneos: https://grapheneos.org/build#kernel-emulator this looks like a pain to setup and configure.
 ### vms
 - https://www.howtogeek.com/164570/how-to-install-android-in-virtualbox/
-- https://www.osboxes.org/android-x86/
+- https://www.osboxes.org/android-x86/ Note, the lineage os box will only boot into commandline with the virtbox graphics driverr configured to be vboxsvga or vboxvga
